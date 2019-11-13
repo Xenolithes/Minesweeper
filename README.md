@@ -1,4 +1,4 @@
-> ![ZOOM](https://gfycat.com/eachmessycatbird)
+![ZOOM](https://gfycat.com/eachmessycatbird)
 
 
 ## About
