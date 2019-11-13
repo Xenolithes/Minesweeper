@@ -22,7 +22,6 @@ The application is served through express
     <td><img src="https://lh3.googleusercontent.com/ZIHOUCCxFaB7NirPhEX4K8cyTPIMvxvdJxpuhjb_qJ_dk-z7qEgD8riaR0ODXzXQZYn23zHpFiwGzxTDT88FTLeUMoPqlIjyLKoL1am8MH5pCoJExjL8SUC8uaeeiAjvQB0_vym6" width="65"/></td> 
     <td><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="58" style="padding-left: 37px;"/></td>
     <td><img src="https://img.stackshare.io/service/5204/bulma-logo.png" width="75"/></td>
-   
     <td class="tech">(React Redux Bulma)</td>
   </tr>
   <tr rowspan="2">
