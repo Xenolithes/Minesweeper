@@ -1,0 +1,12 @@
+#game-board{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+}
+
+.modal-content {
+    top: 30%;
+}
+
