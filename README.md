@@ -1,4 +1,4 @@
-# ![GIF OF DEMO](https://gfycat.com/spanishyoungfinch)
+> ![ZOOM](https://gfycat.com/spanishyoungfinch)
 
 
 ## About
