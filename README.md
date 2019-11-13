@@ -1,4 +1,5 @@
 ![](MSwin.gif)
+![](MSlose.gif)
 
 
 ## About
