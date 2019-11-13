@@ -29,7 +29,7 @@ The application is served through express
     <td class="subheading">Backend</td>
     <td><img src="https://lh5.googleusercontent.com/rdAoVdYKOCnmtev6t7DJrEY7mG4iYsRPqeTH0Z-OrlsVmiea3q5SMtOGNSa7HzJcyxcIcelTacG5gPNgyBoIviiNcLbohQAicvpldcfM32Klb_ewouDRd67OtYhUAU1CEZB4rBqB" width="75" /></td> 
     <td><img src="https://lh6.googleusercontent.com/tKlT8lGB2bTDqSilr_a2y8vaO-QBUdcUIYASnslf-RAKTxUEiEBq-_gTVBP0irIP1ZWNuSvp1fouOJrQBXUr0joVmBZzNyOec4jBpOyVogPZMOYhPH6YQwYOiLdZnfuaDnFel9rn" width="75" style="padding-left: 27px;"/></td>
-    <td><img src="" width="50" style="padding-left: 15px;"/></td>
+    <td></td>
     <td></td>
     <td class="tech">(Node Express)</td>
   </tr>
@@ -38,7 +38,7 @@ The application is served through express
       <td class="subheading">Dev Tools</td>
       <td><img src='https://cityscoutssss.s3.us-east-2.amazonaws.com/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb7987106ca27.6083469215555359850278.png' width="60"></td>
       <td><img src='https://i2.wp.com/endlessillusoft.com/wp-content/uploads/2017/01/babel.png?w=1280' width="80" style="padding-left: 27px"><img></td>
-      <td><img src='' width="50" style="padding-left: 15px"/></td>
+      <td></td>
       <td></td>
       <td class="tech">(Webpack Babel)</td>
     </tr>  
@@ -53,7 +53,9 @@ with a css framework and the complexity was mainly figuring out how it changes t
 ## Minimum Viable Product (MVP)
 
 -Working React-Redux Minesweeper built from scratch
+<br>
 -Reachable Win Condition
+<br>
 -Reachable Loose Condition
 
 # How to run
